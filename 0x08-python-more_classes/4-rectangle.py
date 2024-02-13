@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-
 """Module 4-rectangle"""
+
 
 class Rectangle:
     """Define a rectangle class"""

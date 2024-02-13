@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-
 """Module 6-rectangle"""
+
 
 class Rectangle:
     """Rectangle class defiation.
